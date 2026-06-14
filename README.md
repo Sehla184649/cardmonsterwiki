@@ -136,7 +136,7 @@ The desktop app checks for new versions and offers one-click installation — ne
 - **Offline-first** — full card / passive / image database available without a connection
 - **Polished UI** — faction frames, rarity gems, Elite / Legendary / Awaken visual effects
 - **Ambient sound** — adjustable volume, mute available
-- **Bilingual** — EN / FR toggle on home and deck builder
+- **Keyboard Touch** — speed check with keyboard
 
 ---
 
