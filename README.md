@@ -15,6 +15,8 @@ Your hub for everything in the game:
 - **Live stats** — total cards, passives, Elite, Legendary, Awaken cards, and more
 - **News feed** — preview of announcements (new cards, deck builder updates, etc.)
 
+- Actual version here : https://github.com/Sehla184649/cardmonsterwiki/releases/tag/v1.0.0
+
 ---
 
 ## Card Library
