@@ -2,7 +2,7 @@
 
 **The complete Card Monsters encyclopedia** — cards, passives, decks, and strategy tools, all available **offline** with built-in update tracking.
 
-Bilingual interface **EN / FR** · Windows desktop app · Local database (`card.json`, `passives.json`, images, and audio)
+  Windows desktop app · Local database (`card.json`, `passives.json`, images, and audio)
 
 ---
 
