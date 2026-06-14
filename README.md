@@ -35,12 +35,6 @@ Données embarquées : `card.json`, `passives.json`, images et audio — **fonct
 
 ---
 
-## Captures d’écran
-
-> Ajoutez `docs/screenshot.png` pour illustrer la page de téléchargement.
-
----
-
 ## Installation développeur
 
 ### Prérequis
